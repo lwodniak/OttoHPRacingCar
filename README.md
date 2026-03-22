@@ -34,7 +34,12 @@ Manual control mode
 Forward movement is blocked
 You can still move backward using the joystick
 
-printables:
+**My 3D printable racing car model for HP Otto:**
+👉 https://www.printables.com/model/1646795-otto-formula-racing-car-modular-chassis-for-hp-rob
 
 
-youtube:
+**Otto HP racing car assembly instructions**
+👉  https://www.youtube.com/watch?v=AATVmyTIUfo
+
+**Otto HP robot racing car first race**
+👉  https://www.youtube.com/watch?v=d6Y3AL3Ex9U
